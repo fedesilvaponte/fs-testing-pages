@@ -1,3 +1,6 @@
+---
+bookCollapseSection: true
+---
 
 # Why a handbook
 

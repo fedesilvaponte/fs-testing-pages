@@ -1,3 +1,7 @@
+---
+bookCollapseSection: true
+---
+
 ## Hello human, welcome to Dualboot Partners.
 
 We are thrilled and grateful that you joined our company, and we hope we can give you the opportunities you are looking for.
