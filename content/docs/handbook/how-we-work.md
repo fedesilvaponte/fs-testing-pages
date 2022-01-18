@@ -4,17 +4,21 @@ Among other things, it's likely you are here with us because of our way of worki
 
 We do our best to ensure that everybody can work however and wherever they think is more convenient, and that's why we make remote working a standard practice in the company. "**Work from anywhere**" is not a trend or something inevitable we were forced to do; it's just another practice we have to achieve work-life balance. That being said, there's an important reason why we have offices: culture. We strongly believe in the idea of building teams, learning from others, and fostering innovation. Working in a shared space and meeting face to face is vital to achieving all of this. That's why we encourage people to go to the office, meet others and enjoy some ground coffee or mate.
 
-<aside>
+{{< hint warning >}}
 😷 **ATTENTION!** Due to the current situation, we are not encouraging people to go to the offices. They are open in case you need a place to work, but please take care of yourself and others, and follow the established health protocols.
+{{< /hint >}}
 
-</aside>
-
+{{< columns >}}
 > With great power comes great responsibility
 >
 
 Remote work has countless benefits, and we want everybody to make use of them. At the same time, it comes with specific challenges that we try to mitigate using tools and practices that make our work easier.
 
+<--->
+
 ![https://images.unsplash.com/photo-1521714161819-15534968fc5f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1521714161819-15534968fc5f?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+{{< /columns >}}
 
 Take into consideration that we do calls with our clients, so you need to have fast and reliable internet and a presentable background for the videocalls.
 
