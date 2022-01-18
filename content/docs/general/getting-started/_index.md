@@ -10,11 +10,17 @@ Getting started at a new company can be overwhelming. There are many little deta
 
 ## Your buddy
 
+{{< columns >}}
+
 Though everyone in the team is willing to help you get onboarded, it's always nice to have a dedicated person to guide you in these first steps. They'll introduce themselves, and they are totally willing to point you in the right direction when you need it.
 
 If you don't know who's your work buddy at this point, we did something wrong! Please let us know.
 
+<--->
+
 ![https://images.unsplash.com/photo-1589656966895-2f33e7653819?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb](https://images.unsplash.com/photo-1589656966895-2f33e7653819?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
+
+{{< /columns >}}
 
 Before we start, let's make sure we have some things covered.
 
