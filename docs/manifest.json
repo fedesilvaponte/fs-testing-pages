@@ -1,14 +1,14 @@
 {
   "name": "Dualboot Partners",
   "short_name": "Dualboot Partners",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/fs-testing-pages/",
+  "scope": "/fs-testing-pages/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/fs-testing-pages/favicon.svg",
       "sizes": "512x512"
     }
   ]
