@@ -53,4 +53,4 @@ We know it; everyone hates tracking hours. But as you can imagine, it plays a pr
 
 **Next step**
 
-[Personal Brand](https://www.notion.so/Personal-Brand-322bca8192484692a77e75c9f923d775)
+[Personal Brand](personal-brand)
