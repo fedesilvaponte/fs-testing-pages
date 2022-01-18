@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dualboot Partners</title>
-    <link>http://example.org/docs/general/getting-started/</link>
-    <description>Recent content on Dualboot Partners</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/docs/general/getting-started/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://example.org/docs/general/getting-started/account-setup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/docs/general/getting-started/account-setup/</guid>
-      <description>Account Setup #  These are the essential tools you&amp;rsquo;ll need to set up the first day. You&amp;rsquo;ll receive an invitation email for most of them, but if you have any trouble getting into the accounts, let us know, and we&amp;rsquo;ll help you.
-Google Workspace #  We use Google Workspace as our primary service for, well, everything. Your new firstname.lastname@dualbootpartners.com email is a Google account and will give you access to all its services: Gmail, Calendar, Drive, and others.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dualboot Partners</title><link>http://example.org/docs/general/getting-started/</link><description>Recent content on Dualboot Partners</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://example.org/docs/general/getting-started/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>http://example.org/docs/general/getting-started/account-setup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://example.org/docs/general/getting-started/account-setup/</guid><description>Account Setup # These are the essential tools you&amp;rsquo;ll need to set up the first day. You&amp;rsquo;ll receive an invitation email for most of them, but if you have any trouble getting into the accounts, let us know, and we&amp;rsquo;ll help you.
+Google Workspace # We use Google Workspace as our primary service for, well, everything. Your new firstname.lastname@dualbootpartners.com email is a Google account and will give you access to all its services: Gmail, Calendar, Drive, and others.</description></item></channel></rss>
