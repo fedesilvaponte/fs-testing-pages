@@ -4,8 +4,6 @@ bookCollapseSection: true
 
 ## Hello human, welcome to Dualboot Partners.
 
-> Afoot and light-hearthed I take to the open road. Healthy, free, the world before me. The long brown path before me. Leading wherever I choose. 
-
 We are thrilled and grateful that you joined our company, and we hope we can give you the opportunities you are looking for.
 
 Getting started at a new company can be overwhelming. There are many little details, some big tasks, you're learning a new job and meeting new coworkers, and you might be doing this remotely. This [handbook](https://www.notion.so/Handbook-bb36bc6fa6fb40859741001c1de58a37) and the whole [team](https://www.notion.so/Who-does-what-2fee42bc5a75466ea6ee9c6f3445c8bf) are here to help.
