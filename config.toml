@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://fedesilvaponte.github.io/fs-testing-pages'
 languageCode = 'en-us'
 title = 'Dualboot Partners'
 theme = "hugo-book"
